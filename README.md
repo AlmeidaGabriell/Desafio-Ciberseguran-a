@@ -1,4 +1,4 @@
-# Desafio-Ciberseguran-a
+# Desafio-Cibersegurança
 Atividade do curso de Cibersegurança
 
 
